@@ -1,0 +1,181 @@
+/* Write your code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: 600;
+  color: black;
+}
+
+.pic {
+  height: 50px;
+  width: 50px;
+}
+
+.paragraph1 {
+  font-family: "Roboto";
+  font-size: 20px;
+  color: white;
+  background-color: blue;
+  text-align: center;
+  height: 50px;
+  width: 300px;
+}
+
+.paragraph2 {
+  font-family: "Roboto";
+  font-size: 20px;
+  color: white;
+  background-color: green;
+  text-align: center;
+  height: 50px;
+  width: 300px;
+}
+
+.paragraph3 {
+  font-family: "Roboto";
+  font-size: 20px;
+  color: white;
+  background-color: orange;
+  text-align: center;
+  height: 50px;
+  width: 300px;
+}
+
+.paragraph4 {
+  font-family: "Roboto";
+  font-size: 20px;
+  color: white;
+  background-color: red;
+  text-align: center;
+  height: 50px;
+  width: 300px;
+}
+
+@media screen and (min_width: "576px") {
+  .bg-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+  }
+
+  .pic {
+    height: 50px;
+    width: 50px;
+  }
+
+  .paragraph1 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    background-color: blue;
+    text-align: center;
+    height: 50px;
+    width: 300px;
+  }
+
+  .paragraph2 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    background-color: green;
+    text-align: center;
+    height: 50px;
+    width: 300px;
+  }
+
+  .paragraph3 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    background-color: orange;
+    text-align: center;
+    height: 50px;
+    width: 300px;
+  }
+
+  .paragraph4 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    text-align: center;
+    height: 50px;
+    width: 300px;
+  }
+}
+
+@media screen and (max_width: "768px") and (min_width: "1200px") {
+  .bg-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+  }
+
+  .pic {
+    height: 50px;
+    width: 50px;
+  }
+
+  .paragraph1 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    background-color: blue;
+    text-align: center;
+    height: 50px;
+    width: 300px;
+  }
+
+  .paragraph2 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    background-color: green;
+    text-align: center;
+    height: 50px;
+    width: 300px;
+  }
+
+  .paragraph3 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    background-color: orange;
+    text-align: center;
+    height: 50px;
+    width: 300px;
+  }
+
+  .paragraph4 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    text-align: center;
+    height: 50px;
+    width: 300px;
+  }
+}
